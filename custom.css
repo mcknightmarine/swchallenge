@@ -1,0 +1,18 @@
+﻿body {
+    align-content: center;
+    background-image: url('img/Vg8fVGi.gif');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+
+input[type=checkbox]:checked + label{
+    color: gray;
+    text-decoration: line-through;
+} /*This strikes text and greys it out.*/
+
+.content{
+    margin: 38%;
+    color: white;
+}
